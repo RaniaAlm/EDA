@@ -7,8 +7,8 @@ Moburst Advertising company wants to place three billboards in the top three mos
 ### Goal :
 
 Exploratory data analysis on MTA data to  aid Moburst Advertising company:
-1- Determine where the three animated billboards will be located.
-2- Knowing how much the advertisement will cost over the course of the week, based on the number of visitors on each day.
+- 1- Determine where the three animated billboards will be located.
+- 2- Knowing how much the advertisement will cost over the course of the week, based on the number of visitors on each day.
 
 ### Question :
 
