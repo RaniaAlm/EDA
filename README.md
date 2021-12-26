@@ -1,14 +1,8 @@
 # EDA (Exploratory data analysis)
 
-### Overview :
-
-Moburst Advertising company wants to place three billboards in the top three most visited stations. They also want to know the total number of visits for each day of the week so that the ad price can be determined accordingly.
-
 ### Goal :
 
-Exploratory data analysis on MTA data to  aid Moburst Advertising company:
-- 1- Determine where the three animated billboards will be located.
-- 2- Knowing how much the advertisement will cost over the course of the week, based on the number of visitors on each day.
+The Moburst project's goal is to use the Metropolitan Transportation Authority (MTA) turnstile data to recommend where to place its animated billboards at the three most frequented stations, in order to attract the greatest number of entrants to the station to advertisements. In addition, the company is interested in determining the total entries for each day of the week to set the price of the advertisements. So an Exploratory Data Analysis (EDA) was undertaken, and a plethora of plots to visualize and communicate the obtained findings were generated.
 
 ### Question :
 
